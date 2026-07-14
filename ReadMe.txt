@@ -1,4 +1,4 @@
-DevOps Lab - Exercise 1
+devOps 1
 
 Name: Srri Hari T R
 Repository: Master
